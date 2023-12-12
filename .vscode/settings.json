@@ -1,0 +1,15 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.portWin": "COM3",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "c++": "cpp",
+    "future": "c",
+    "system_error": "c",
+    "regex": "c",
+    "sstream": "c",
+    "stdlib.h": "c"
+  },
+  "idf.adapterTargetName": "esp32",
+  "idf.port": "/dev/cu.usbserial-019FD476"
+}
